@@ -1,4 +1,4 @@
-# Diabetic_Retinopathy_Prediction_ML_Project
+**# Diabetic_Retinopathy_Prediction_ML_Project**
 
 A machine learning project that predicts Diabetic Retinopathy using four medical features: Age, Systolic BP, Diastolic BP, and Cholesterol.
 The project uses SVM Classifier, feature scaling, and Streamlit for deployment.
