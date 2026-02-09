@@ -27,7 +27,7 @@ Accuracy:75%
 
 Author
 
-Pratiksha Mhaske – Engineer
+Er. Pratiksha Mhaske
 
 LinkedIn: https://www.linkedin.com/in/pratiksha-mhaske-173643387
 
