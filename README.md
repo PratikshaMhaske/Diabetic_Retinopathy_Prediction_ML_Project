@@ -25,12 +25,10 @@ Support Vector Machine (SVM) Classifier
 
 Accuracy:75%
 
-Author
+**Author**: **Er. Pratiksha Mhaske**
 
-Er. Pratiksha Mhaske
+**LinkedIn:** https://www.linkedin.com/in/pratiksha-mhaske-173643387
 
-LinkedIn: https://www.linkedin.com/in/pratiksha-mhaske-173643387
-
-GitHub: https://github.com/PratikshaMhaske
+**GitHub:** https://github.com/PratikshaMhaske
 
 **Project Deployment:** https://drive.google.com/file/d/1XLdZv5nKvtOXIsZgN8cphcS-YHOZlSUa/view?usp=sharing
